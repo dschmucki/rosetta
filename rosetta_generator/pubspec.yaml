@@ -26,5 +26,5 @@ dependencies:
     path: ../rosetta/
 
 dev_dependencies:
-  build_runner: ^1.1.0
+  build_runner: ^1.6.1
   
